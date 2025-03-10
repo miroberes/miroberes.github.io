@@ -98,7 +98,7 @@ Or do it in one line
 
 Line `1` is the one with the cursor so it shows the real line number, all others are relative line numbers, which we will use to make our navigation in Vim **fast and effective**!
 
-```yaml
+```
 1   apiVersion: v1
   1 kind: Service
   2 metadata:
@@ -133,7 +133,7 @@ We need to delete lines from`10   clusterIP: 10.96.0.0` down to (including) `17 
 ```
 
 We landed on the line with the real **nu**mber 11, the first line we want to delete:
-```yaml
+```
  10 apiVersion: v1
   9 kind: Service
   8 metadata:
@@ -166,7 +166,7 @@ d7j          # 'd'elete 7 lines 'j'umping down
 ```
 
 The unwanted lines should now be gone:
-```yaml
+```
  10 apiVersion: v1
   9 kind: Service
   8 metadata:
