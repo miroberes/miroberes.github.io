@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miroberes.github.io/CKAD-Exam-Tips/sitemap.xml

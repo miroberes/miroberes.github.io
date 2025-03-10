@@ -1,0 +1,18 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <ul>
+      <li>
+        <a href="/CKAD-Exam-Tips/">Home - CKAD Exam Tips</a>
+      </li>
+    {% for page in site.pages %}
+      {% unless page.path contains 'assets/main' or page.path contains 'feed.xml' or page.path contains 'sitemap.xml' or page.path contains 'robots.txt' or page.path contains 'README.md' or page.path contains 'index' %}
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title | default: page.path }}</a></li>
+      {% endunless %}
+    {% endfor %}
+    <br />
+        <li><a href="https://github.com/miroberes/CKAD-Exam-Tips">CKAD Exam Tips - GitHub repository</a></li>
+    </ul>
+  </div
+</footer>

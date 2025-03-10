@@ -1,0 +1,58 @@
+---
+---
+
+@import "minima";
+
+.wrapper {
+  max-width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: none;
+  min-height: auto;
+  position: static;
+  background-color: #306ce6;
+  padding: 1rem 0;
+}
+
+.wrapper {
+  max-width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+a.site-title {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+
+  &:hover {
+    color: white;
+  }
+}
+
+.site-title, .site-title:visited {
+  color: white;
+}
+
+.site-nav {
+  float: right;
+  
+  a {
+      color: #ddd;
+      text-decoration: none;
+      margin-right: 20px;
+
+      &:hover {
+          color: white;
+      }
+  }
+}
