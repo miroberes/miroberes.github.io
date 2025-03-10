@@ -91,4 +91,4 @@ Vim ***q***uits, closing the edited pod manifest.
 #### Congratulations!
 Practice these steps to make applying yaml files and running pods with kubectl directly from Vim second nature.
 
-Next: [kubectl for CKAD - exercise 2 - edit and replace a pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-002-edit-replace-pod.html)
+Next: [kubectl for CKAD - exercise 2 - edit and replace a pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-002-edit-replace-pod.html)
