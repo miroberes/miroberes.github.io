@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 9 - expose a pod with NodePort service, delete lines in Vim
 date: 2025-01-14
 ---
-Previous: [kubectl for CKAD - exercise 8 - use bash exported variables in Vim 2](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-008-use-bash-variables2.html)
+Previous: [kubectl for CKAD - exercise 8 - use bash exported variables in Vim 2](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-008-use-bash-variables2.html)
 #### First things first
 Put your mouse away, forget you have a touchpad and **keep your hands on the keyboard**.
 
@@ -221,4 +221,4 @@ source ~/.bashrc
 #### Congratulations!
 You have learned how to  use `--dry-run=server` to expose a pod with a NodePort service and how to delete unwanted lines in YAML definitions using fast navigation by line numbers. Practice, practice, practice...
 
-Next: [kubectl for CKAD - exercise 10 - copy from browser, paste into Vim, indent](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-010-copy-from-browser-to-vim-indent.html)
+Next: [kubectl for CKAD - exercise 10 - copy from browser, paste into Vim, indent](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-010-copy-from-browser-to-vim-indent.html)

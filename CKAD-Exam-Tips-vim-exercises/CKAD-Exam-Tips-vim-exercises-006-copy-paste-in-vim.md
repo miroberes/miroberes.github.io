@@ -2,7 +2,7 @@
 title: Vim for CKAD - exercise 6 - copy from browser, paste into Vim
 date: 2025-01-11
 ---
-Previous: [Vim for CKAD - exercise 5 - hide vim, edit multiple files](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-005-edit-multiple-files.html)
+Previous: [Vim for CKAD - exercise 5 - hide vim, edit multiple files](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-005-edit-multiple-files.html)
 
 Vim is great if we invest time to learn to use it. Editing Kubernetes YAML files in Vim should be as natural as breathing.
 

@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 7 - use exported bash variables in Vim 1
 date: 2025-01-12
 ---
-Previous: [kubectl for CKAD - exercise 6 - set env to a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-006-set-env-multi-pod.html)
+Previous: [kubectl for CKAD - exercise 6 - set env to a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-006-set-env-multi-pod.html)
 
 #### First things first
 Put your mouse away, forget you have a touchpad and **keep your hands on the keyboard**.
@@ -118,4 +118,4 @@ The running pod is deleted with `--force --grace-period 0` and a new pod is crea
 #### Congratulations!
 Practice these steps to make applying and replacing Kubernetes resources as fast as possible, using bash exported variables directly in Vim.
 
-Next: [kubectl for CKAD - exercise 8 - use bash exported variables in Vim 2](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-008-use-bash-variables2.html)
+Next: [kubectl for CKAD - exercise 8 - use bash exported variables in Vim 2](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-008-use-bash-variables2.html)

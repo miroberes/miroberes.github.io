@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 3 - set env and replace pod
 date: 2025-01-12
 ---
-Previous: [kubectl for CKAD - exercise 2 - edit and replace a pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-002-edit-replace-pod.html)
+Previous: [kubectl for CKAD - exercise 2 - edit and replace a pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-002-edit-replace-pod.html)
 ### Getting Started with kubectl for CKAD exam
 
 #### First things first
@@ -86,4 +86,4 @@ kubectl set env pods colorpod --list
 #### Congratulations!
 Practice these steps to master setting pod environment variables and replacing pods directly from Vim with kubectl.
 
-Next: [kubectl for CKAD - exercise 4 - set resources and replace pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-004-set-resources-replace-pod.html)
+Next: [kubectl for CKAD - exercise 4 - set resources and replace pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-004-set-resources-replace-pod.html)

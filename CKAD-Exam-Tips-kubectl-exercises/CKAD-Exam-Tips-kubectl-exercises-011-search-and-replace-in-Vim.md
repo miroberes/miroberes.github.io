@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 11 - search and replace in Vim
 date: 2025-01-19
 ---
-Previous: [kubectl for CKAD - exercise 10 - copy from browser, paste into Vim, indent](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-010-copy-from-browser-to-vim-indent.html)
+Previous: [kubectl for CKAD - exercise 10 - copy from browser, paste into Vim, indent](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-010-copy-from-browser-to-vim-indent.html)
 
 In this exercise, we will learn how to search and replace text within a Vim document. We will be using the final `testdep.yaml` file created in the previous exercise.
 

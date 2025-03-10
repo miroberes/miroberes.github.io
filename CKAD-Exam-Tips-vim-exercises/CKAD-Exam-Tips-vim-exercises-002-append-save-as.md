@@ -2,7 +2,7 @@
 title: Vim for CKAD - exercise 2 - append text, save as
 date: 2025-01-11
 ---
-Previous: [Vim for CKAD - exercise 1 - creating, editing, saving, and closing documents in Vim](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-001.html)
+Previous: [Vim for CKAD - exercise 1 - creating, editing, saving, and closing documents in Vim](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-001.html)
 
 Vim is great if we invest time to learn to use it. Editing Kubernetes YAML files in Vim should be as natural as breathing.
 
@@ -52,4 +52,4 @@ Vim ***q***uits, closing the edited document.
 #### Congratulations!
 Practice these steps to make creating, editing, saving, and closing YAML files in Vim second nature.
 
-Next: [Vim for CKAD - exercise 3 - start writing](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-003-start-writing.html)
+Next: [Vim for CKAD - exercise 3 - start writing](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-003-start-writing.html)

@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 8 - use exported bash variables in Vim 2
 date: 2025-01-13
 ---
-Previous: [kubectl for CKAD - exercise 7 - use bash exported variables in Vim 1](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-007-use-bash-variables1.html)
+Previous: [kubectl for CKAD - exercise 7 - use bash exported variables in Vim 1](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-007-use-bash-variables1.html)
 #### First things first
 Put your mouse away, forget you have a touchpad and **keep your hands on the keyboard**.
 
@@ -37,4 +37,4 @@ k run shortpod --image=nginx:alpine $dry --command -- bin/sh -c "echo test;sleep
 #### Congratulations!
 You've learned how to use command expansion with bash variables to make your kubectl commands more efficient. This will save you valuable time during the CKAD exam.
 
-Next: [kubectl for CKAD - exercise 9 - expose a pod with NodePort service, delete lines in Vim](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-009-expose-nodeport-delete-lines.html)
+Next: [kubectl for CKAD - exercise 9 - expose a pod with NodePort service, delete lines in Vim](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-009-expose-nodeport-delete-lines.html)

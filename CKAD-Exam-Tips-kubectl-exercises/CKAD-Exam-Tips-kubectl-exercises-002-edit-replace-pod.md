@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 2 - edit and replace a pod
 date: 2025-01-11
 ---
-Previous: [kubectl for CKAD - exercise 1 - run a pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-001-run-a-pod.html)
+Previous: [kubectl for CKAD - exercise 1 - run a pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-001-run-a-pod.html)
 ### Getting Started with kubectl for CKAD exam
 
 #### First things first
@@ -82,4 +82,4 @@ Vim ***q***uits, closing the edited pod manifest.
 #### Congratulations!
 Practice these steps to make replacing running pods with kubectl directly from Vim second nature.
 
-Next: [kubectl for CKAD - exercise 3 - set env and replace pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-003-set-env-replace-pod.html)
+Next: [kubectl for CKAD - exercise 3 - set env and replace pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-003-set-env-replace-pod.html)

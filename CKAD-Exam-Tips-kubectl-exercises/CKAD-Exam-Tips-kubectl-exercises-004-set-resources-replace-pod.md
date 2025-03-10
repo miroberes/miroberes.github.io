@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 4 - set resources and replace pod
 date: 2025-01-12
 ---
-Previous: [kubectl for CKAD - exercise 3 - set env and replace pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-003-set-env-replace-pod.html)
+Previous: [kubectl for CKAD - exercise 3 - set env and replace pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-003-set-env-replace-pod.html)
 ### Getting Started with kubectl for CKAD exam
 
 #### First things first
@@ -87,4 +87,4 @@ Vim ***q***uits, closing the edited YAML file.
 #### Congratulations!
 Practice these steps to master setting resource requests and limits and replacing pods directly from Vim with kubectl.
 
-Next: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)
+Next: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)

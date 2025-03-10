@@ -2,7 +2,7 @@
 title: Vim for CKAD - exercise 4 - hide, show vim
 date: 2025-01-11
 ---
-Previous: [Vim for CKAD - exercise 3 - start writing](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-003-start-writing.html)
+Previous: [Vim for CKAD - exercise 3 - start writing](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-003-start-writing.html)
 
 Vim is great if we invest time to learn to use it. Editing Kubernetes YAML files in Vim should be as natural as breathing.
 
@@ -41,4 +41,4 @@ Now you can continue to edit the file in Vim.
 #### Congratulations!
 Practice these steps to make using Vim second nature, hiding it and bringing it back instead of closing it and opening again.
 
-Next: [Vim for CKAD - exercise 5 - hide vim, edit multiple files](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-005-edit-multiple-files.html)
+Next: [Vim for CKAD - exercise 5 - hide vim, edit multiple files](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-005-edit-multiple-files.html)

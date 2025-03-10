@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 5 - run a multi-container pod
 date: 2025-01-12
 ---
-Previous: [kubectl for CKAD - exercise 4 - set resources and replace pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-004-set-resources-replace-pod.html)
+Previous: [kubectl for CKAD - exercise 4 - set resources and replace pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-004-set-resources-replace-pod.html)
 
 #### First things first
 Put your mouse away, forget you have a touchpad and **keep your hands on the keyboard**.
@@ -64,4 +64,4 @@ Vim ***q***uits, closing the edited pod manifest.
 #### Congratulations!  
 You've learned to generate a multi-container pod on the fly using `kubectl`, `sed`, and `Vim`. Practice often to master fast YAML generation and direct editing for the CKAD exam.
 
-Next: [kubectl for CKAD - exercise 6 - set env to a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-006-set-env-multi-pod.html)
+Next: [kubectl for CKAD - exercise 6 - set env to a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-006-set-env-multi-pod.html)

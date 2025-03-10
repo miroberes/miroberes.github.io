@@ -47,4 +47,4 @@ Vim ***q***uits, closing the edited document.
 #### Congratulations!
 Practice these steps to make creating, editing, saving, and closing YAML files in Vim second nature.
 
-Next: [Vim for CKAD - exercise 2 - append text, save as](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-002-append-save-as.html)
+Next: [Vim for CKAD - exercise 2 - append text, save as](https://miroberes.github.io/CKAD-Exam-Tips-vim-exercises/CKAD-Exam-Tips-vim-exercises-002-append-save-as.html)

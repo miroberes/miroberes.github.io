@@ -2,7 +2,7 @@
 title: kubectl for CKAD - exercise 6 - set env to a multi-container pod
 date: 2025-01-12
 ---
-Previous: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)
+Previous: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)
 
 #### First things first
 Put your mouse away, forget you have a touchpad and **keep your hands on the keyboard**.
@@ -14,7 +14,7 @@ Setting environment variable for a specific container in a multi-container pod.
 
 A pod named `multipod` is running in the cluster with two containers named: `multipod` and `busybox-container`. We want to set the environment variable `APP_MODE=production` on the `busybox-container` container only.
 
-If you don't have the pod `multipod` running in your cluster from the previous exercise: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)
+If you don't have the pod `multipod` running in your cluster from the previous exercise: [kubectl for CKAD - exercise 5 - run a multi-container pod](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-005-run-multi-container-pod.html)
 
 #### Attempting to directly set the environment variable for a specific container throws an error:
 ```
@@ -65,4 +65,4 @@ APP_MODE=production
 #### Congratulations!
 Practice these steps to master setting container-specific environment variables in multi-container pods with kubectl and Vim.
 
-Next: [kubectl for CKAD - exercise 7 - use bash exported variables in Vim 1](https://miroberes.github.io/CKAD-Exam-Tips/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-007-use-bash-variables1.html)
+Next: [kubectl for CKAD - exercise 7 - use bash exported variables in Vim 1](https://miroberes.github.io/CKAD-Exam-Tips-kubectl-exercises/CKAD-Exam-Tips-kubectl-exercises-007-use-bash-variables1.html)
